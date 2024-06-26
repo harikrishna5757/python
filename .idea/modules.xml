@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../hari/.idea/hari.iml" filepath="$PROJECT_DIR$/../hari/.idea/hari.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python2406full.iml" filepath="$PROJECT_DIR$/.idea/python2406full.iml" />
     </modules>
   </component>

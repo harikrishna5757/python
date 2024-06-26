@@ -10,8 +10,7 @@ class Shape(ABC):
 
     @abstractmethod
     def calculate_area(self):
-        raise NotImplementedError
+        return NotImplementedError
 
 
-n = Shape()
-normal()
+# n = Shape()
